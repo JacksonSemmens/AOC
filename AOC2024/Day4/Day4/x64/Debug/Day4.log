@@ -1,0 +1,7 @@
+﻿  Day4.cpp
+D:\Projects\AOC2024\Day4\Day4.cpp(34,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\AOC2024\Day4\Day4.cpp(58,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\AOC2024\Day4\Day4.cpp(59,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\AOC2024\Day4\Day4.cpp(84,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\AOC2024\Day4\Day4.cpp(85,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Day4.vcxproj -> D:\Projects\AOC2024\Day4\x64\Debug\Day4.exe
